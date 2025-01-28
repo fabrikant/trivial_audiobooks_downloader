@@ -1,3 +1,8 @@
+tg_sender.py
+opf.py
+common_arguments.py
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

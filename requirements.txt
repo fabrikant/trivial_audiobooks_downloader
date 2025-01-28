@@ -1,0 +1,4 @@
+requests
+pathvalidate
+beautifulsoup4
+fake-useragent
