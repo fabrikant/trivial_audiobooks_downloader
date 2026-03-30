@@ -11,5 +11,5 @@ wget https://raw.githubusercontent.com/fabrikant/litres_downloader/main/common_a
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install --upgrade pip
-pip install -r requirements.txt
+pip install --upgrade -r requirements.txt
 deactivate
