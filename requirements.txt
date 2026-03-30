@@ -1,4 +1,4 @@
-requests
+requests[socks]
 pathvalidate
 beautifulsoup4
 fake-useragent
